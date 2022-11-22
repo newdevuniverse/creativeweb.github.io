@@ -1,0 +1,15 @@
+table {
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    width: max-content;
+    min-width: 100vw;
+    white-space: pre;
+    font-size: initial;
+    font-family: monospace;
+    tab-size: 4;
+    border-spacing: 0px;
+    border-color: grey;
+    margin: 0px;
+} 
